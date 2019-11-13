@@ -1,0 +1,124 @@
+body{ 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    margin-left: 0;
+    margin-bottom: 0;
+}
+.fit-icon{
+    width: 30px;
+    margin-top: 10px;
+    vertical-align: middle;
+}
+.fit-logo{
+    width: 272px;
+    padding-top: 109px;
+    text-align: center;
+    display: inline-block;
+    margin-left: 90px;
+    padding-bottom: 25px;
+    
+}
+a {
+    text-decoration: none;
+    color: #464646;
+    font-family: Roboto, "sans serif";
+    padding-right: 10px;
+}
+.button-style{
+    background-color: #4684EC;
+    color: white;
+    border: 0px;
+    border-radius: 2px;
+    padding: 5px 10px;
+    font-size: 10px;
+}
+footer{
+    background-color: #ebebeb;
+    height: 40px;
+    position: fixed;
+    max-width: 100%;
+    min-width: 100%;
+    bottom: 0;
+}
+.left-foot{
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+    vertical-align: middle;
+    color: #464646;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ebebeb;
+    vertical-align: middle;
+}
+.nav {
+    float: left;
+    margin-left: 10px;
+    
+}
+.nav2{
+    float: right;
+    margin-right: 20px;
+    
+}
+li{
+    float: left;
+}
+li a{
+    display: block;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+.right-foot{
+    float: right;
+    margin-top: 10px;
+    margin-right: 20px;
+    color: #464646;
+}
+.main-div{
+    text-align: center;
+}
+.search-bar{
+    width:350px;
+    border: 0;
+    height: 35px;
+    border-radius: 10px;
+}
+.fit-text{
+    border-radius:40px;
+    border: 1px solid #dfe1e5;
+    width: 400px;
+    height: 45px;
+    text-align: center;
+    display: inline-block;
+}
+.submit-style{
+    background-color: #f2f2f2;
+border: 1px solid #f2f2f2;
+border-radius: 4px;
+color: #5F6368;
+font-family: arial,sans-serif;
+font-size: 14px;
+margin: 11px 4px;
+padding: 0 16px;
+line-height: 27px;
+height: 36px;
+min-width: 54px;
+text-align: center;
+cursor: pointer;
+}
+.fit-footer{
+    padding-bottom: 10px;
+    color: #464646;
+}
+.app-icon-fit{
+    position: relative;
+    top: 5px;
+    font-size: 23px;
+    width: 25px;
+}
